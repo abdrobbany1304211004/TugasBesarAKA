@@ -3,7 +3,7 @@ Perbandingan Algoritma Quick Sort Iteratif dan Rekursif.
 
 Judul : Analisis Efisiensi Algoritma Quick Sort Iteratif dan Rekursif Pada Pengurutan Skor Game dalam Leaderboard 
 
-Anggota : Abdurrohman Robbany | 1304211004
+Anggota : Abdurrohman Robbany-1304211004
 
 Studi Kasus : mengukur efisiensi pada peng-urutan skor pemain dalam leaderboard berdasarkan running time agar dapat diakses dan ditampilkan dengan cepat.
 
